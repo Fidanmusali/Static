@@ -1,0 +1,38 @@
+.homeGrp1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-inline: 5rem;
+    gap: 2rem;
+}
+
+.homeGrp1 h2{
+    color: #00d4ff;
+    font-size: 2rem;
+}
+
+.homeGrp1 p{
+    color: grey;
+    font-size: 1.2em;
+    line-height: 2rem;
+}
+
+
+h1{
+   text-align: center;
+   color: #090979;
+   font-size: 2.5rem;
+
+}
+
+.homeGroup{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5rem;
+}
+
+.home{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}

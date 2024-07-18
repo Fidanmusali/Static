@@ -1,0 +1,26 @@
+.about{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3rem;
+
+}
+
+.about img{
+    width: 20rem;
+    height: 20rem;
+}
+.about h2{
+    font-size: 2.5rem;
+}
+.about p{
+    font-size: 1.3rem;
+    text-align: center;
+    color: grey;
+    line-height: 1.7rem;
+    width: 45rem;
+    margin-bottom: 2.7rem;
+
+
+}

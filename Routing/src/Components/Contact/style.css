@@ -1,0 +1,30 @@
+.contact input{
+    display: block;
+    width: 45rem;
+    height: 3rem;
+    border-radius: 15px;
+    border: 1px solid grey;
+    margin-bottom: 2rem;
+    padding: 10px 12px;
+
+}
+
+textarea{
+    resize: none;
+    width: 45rem;
+    height: 15rem;
+    border-radius: 15px;
+    border: 1px solid grey;
+    padding: 10px 12px;
+
+
+}
+ .contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+
+    
+ }
