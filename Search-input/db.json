@@ -1,0 +1,76 @@
+{
+    "search":[
+        {
+            "id": 35,
+            "title": "Magic Mushroom 0325",
+            "img": " /public/img/nft1.png",
+            "avatar": "/public/img/avatar.png",
+            "username": "Shroomie",
+            "price": "1.63 ETH",
+            "eid": "0.33wETH"
+          },
+          {
+            "id": 36,
+            "title": "Happy Robot 032",
+            "img": " /public/img/nft2.png",
+            "avatar": "/public/img/avatar2.png",
+            "username": "BeKind2Robots",
+            "price": "1.63 ETH",
+            "eid": "0.33wETH"
+          },
+          {
+            "id": 37,
+            "title": "Happy Robot 024",
+            "img": " /public/img/nft3.png",
+            "avatar": "/public/img/avatar3.png",
+            "username": "BeKindRobots",
+            "price": "1.63 ETH",
+            "eid": "0.33wETH"
+          },
+          {
+            "id": 38,
+            "title": "Designer Bear",
+            "img": " /public/img/nft4.png",
+            "avatar": "/public/img/avatar4.png",
+            "username": "Mr Fox",
+            "price": "1.63 ETH",
+            "eid": "0.33wETH"
+          },
+          {
+            "id": 39,
+            "title": "Colorful Dog 0356",
+            "img": " /public/img/nft5.png",
+            "avatar": "/public/img/avatar.png",
+            "username": "Keepitreal",
+            "price": "1.63 ETH",
+            "eid": "0.33wETH"
+          },
+          {
+            "id": 40,
+            "title": "Dancing Robots 0323",
+            "img": " /public/img/nft6.png",
+            "avatar": "/public/img/avatar2.png",
+            "username": "Robotica",
+            "price": "1.63 ETH",
+            "eid": "0.33wETH"
+          },
+          {
+            "id": 41,
+            "title": "Cherry Blossom Girl 035",
+            "img": " /public/img/nft7.png",
+            "avatar": "/public/img/avatar3.png",
+            "username": "MoonDancer",
+            "price": "1.63 ETH",
+            "eid": "0.33wETH"
+          },
+          {
+            "id": 42,
+            "title": "Space Travel",
+            "img": " /public/img/nft8.png",
+            "avatar": "/public/img/avatar4.png",
+            "username": "NebulaKid",
+            "price": "1.63 ETH",
+            "eid": "0.33wETH"
+          }
+    ]
+}
